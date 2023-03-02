@@ -15,8 +15,8 @@ This research is of public benefit as we will answer important questions we know
 
 ## Code
 
-* Click [here] to view the analysis code used in the various TREs.
-* Phenotyping algorithms and codelists used in the various TREs are available [here].
+* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU035_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU035_01/tree/main/phenotypes)
 
 ## Project approval
 
