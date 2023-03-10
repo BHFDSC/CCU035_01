@@ -1,4 +1,4 @@
-# SARS-CoV-2 infection and risk of major vascular events in people with chronic respiratory diseases
+# Risk of cardiovascular events following COVID-19 in people with and without pre-existing chronic respiratory disease
 
 ## Project description
 
@@ -11,7 +11,8 @@ We will collaborate with researchers to use UK-wide de-identified patient data t
 This research is of public benefit as we will answer important questions we know patients and the public want answered. We will add value to these data, sharing expertise and data on lung disease. Findings will help better understand complications following COVID-19 in people with lung disease, if we should be treating them differently or even if some treatments taken for lung disease protect from some COVID-19 complications. Our work could be used to develop disease specific risk models’ clinicians can use to predict an individual's risk, communicate the risk effectively or design a personalised follow-up schedule which reassures the patient.
 
 ## How to cite this work
-> Citation to follow
+
+The preprint is available here: https://doi.org/10.1101/2023.03.01.23286624
 
 ## Code
 
