@@ -1,5 +1,7 @@
 # Risk of cardiovascular events following COVID-19 in people with and without pre-existing chronic respiratory disease
 
+**Hannah Whittaker, Constantinos Kallis, Thomas Bolton, Angela Wood, Samantha Walker, Aziz Sheikh, Alex Brownrigg, Ashley Akbari, Kamil Sterniczuk, Jennifer K Quint, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
 We plan to investigate whether people with pre-existing chronic lung diseases who develop COVID-19 have a higher risk of heart attacks, stroke, and blood clots in the lungs compared with people with COVID-19 without pre-existing lung disease. People with chronic lung diseases will include those with asthma, chronic obstructive pulmonary disease, bronchiectasis, cystic fibrosis, and interstitial lung disease. 
@@ -12,12 +14,12 @@ This research is of public benefit as we will answer important questions we know
 
 ## How to cite this work
 
-The preprint is available here: https://doi.org/10.1101/2023.03.01.23286624
+> Whittaker H, Kallis C, Bolton T, et al. Risk of cardiovascular events following COVID-19 in people with and without pre-existing chronic respiratory disease. Int J Epidemiol. 2024;53(3):dyae068. doi: https://doi.org/10.1093/ije/dyae068
 
 ## Code
 
-* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU035_01/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU035_01/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU035_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU035_01/tree/main/phenotypes)
 
 ## Project approval
 
